@@ -1,0 +1,14 @@
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.csproj.AssemblyReference.cache
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.GeneratedMSBuildEditorConfig.editorconfig
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.AssemblyInfoInputs.cache
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.AssemblyInfo.cs
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.csproj.CoreCompileInputs.cache
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.exe
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.deps.json
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.runtimeconfig.json
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.runtimeconfig.dev.json
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.dll
+D:\BieuThuc\Infix\bin\Debug\netcoreapp3.1\Infix.pdb
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.dll
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.pdb
+D:\BieuThuc\Infix\obj\Debug\netcoreapp3.1\Infix.genruntimeconfig.cache
